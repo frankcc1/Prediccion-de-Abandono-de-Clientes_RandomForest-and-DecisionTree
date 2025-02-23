@@ -11,3 +11,4 @@ Analizando los datos, podemos ver patrones en como la edad, el género, el tipo 
 2️⃣ Identificación de Factores Clave 📊
 Para predecir qué clientes tienen más probabilidades de abandonar, entrené un modelo de Machine Learning en PySpark (Random Forest), utilizando técnicas como la validación cruzada y la hiperparametrización para optimizar su desempeño.
 
+![image alt](https://github.com/frankcc1/Prediccion-de-Abandono-de-Clientes_RandomForest-and-DecisionTree/blob/850de0c445091b53fa495d2711f28d1cbbd0964e/Prediccion_AbandonoClientes/image.png)
