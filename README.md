@@ -1,6 +1,6 @@
 # Prediccion-de-Abandono-de-Clientes_RandomForest-and-DecisionTree
 
-📡 ¿Cómo identificar qué clientes tienen más probabilidades de abandonar los servicios de una empresa de telecomunicaciones?🚀
+📡¿Cómo identificar qué clientes tienen más probabilidades de abandonar los servicios de una empresa de telecomunicaciones?🚀
 
 En la industria de telecomunicaciones, entender quiénes son los clientes más propensos a cancelar su servicio es clave para diseñar estrategias de retención más efectivas.
 Hoy quiero compartir cómo analicé y predecí el abandono de clientes de una empresa en el sector de telecomunicaciones, utilizando Power BI y PySpark. 📊
