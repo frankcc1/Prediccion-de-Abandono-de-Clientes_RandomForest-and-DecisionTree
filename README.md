@@ -10,3 +10,4 @@ Analizando los datos, podemos ver patrones en como la edad, el género, el tipo 
 
 2️⃣ Identificación de Factores Clave 📊
 Para predecir qué clientes tienen más probabilidades de abandonar, entrené un modelo de Machine Learning en PySpark (Random Forest), utilizando técnicas como la validación cruzada y la hiperparametrización para optimizar su desempeño.
+
